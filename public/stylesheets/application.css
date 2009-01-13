@@ -1,15 +1,22 @@
 body {
   margin-top: 100px;
   text-align: center;
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
   font-size: 200%;
 }
 
 input {
-  background-color: #222;
+  background-color: #eee;
   border: 2px solid #888;
-  color: white;
+  color: black;
   font-size: 100%;
   text-align: center;
 }
+
+#footer { 
+  font-size:80%; 
+  margin: 20px; 
+  padding: 30px; 
+}
+#footer a { color: black; }
